@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  Aout Me:
 I'm Likitha chendrimada Suguna,<br> A passionate  Computer Science and Engineering student.<br>
 Aspiring AWS Cloud Engineer |
 Java Full-Stack Development | 
