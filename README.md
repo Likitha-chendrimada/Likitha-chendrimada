@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Likitha Chendrimada Suguna</h1>
-<h3 align="center">Computer Science Engineering Student | Aspiring AWS Cloud Engineer</h3>
+<h3 align="center">Computer Science & Engineering Student | Aspiring AWS Cloud Engineer</h3>
 
 ---
 
@@ -19,7 +19,7 @@
 Java | Python | JavaScript | C  
 
 **Full Stack Development:**  
-HTML | CSS | JavaScript | React.js | Flask | Spring Boot  
+HTML | CSS | TypeScript | React.js | Flask | Spring Boot  
 
 **Mobile App Development:**  
 Flutter | React Native | Java (Android)
