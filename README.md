@@ -44,7 +44,7 @@ SQL | MySQL | PostgreSQL | SQLite | MongoDB | Firebase
 
 ## 🔥 GitHub Streak
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=Likitha-chendrimada&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com/?user=LikithaCSuguna&theme=tokyonight)
 
 ---
 
