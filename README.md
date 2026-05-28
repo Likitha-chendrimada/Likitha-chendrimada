@@ -150,4 +150,4 @@
 
 ---
 
-<p align="center"><i>⭐ Always learning, always building — see you in the commits.</i></p>
+<p align="center"><i>⭐ Always learning, always building!</i></p>
