@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=6A5ACD&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B+I'm+Likitha+Chendrimada+Suguna;Computer+Science+%26+Engineering+Student;Aspiring+Software+Engineer" alt="Typing SVG" />
 </h1>
 
-<h3 align="center">JAVA Full Stack Development | Flutter App Development</h3>
+<h3 align="center">JAVA Full Stack Developer | Flutter App Developer</h3>
 
 
 ---
