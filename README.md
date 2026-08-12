@@ -103,7 +103,7 @@ System Design & Distributed Systems
 ## Coding Profiles : 
 
 <p align="center">
-  <a href="https://leetcode.com/u/chendimada/">
+  <a href="https://leetcode.com/u/chendrimada/">
     <img src="https://img.shields.io/badge/LeetCode-1E1E1E?style=for-the-badge&logo=leetcode&logoColor=white"/>
   </a>
   <a href="https://www.geeksforgeeks.org/profile/likithasuuf6r">
